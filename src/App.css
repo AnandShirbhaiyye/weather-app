@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.right{
+  align-items: right!important;
+}
+.nav-link{
+  margin-right: 7%;
+}
+.nav-link:hover{
+  background-color: rgb(90,228,228);
+  border-radius: 5px;
+  margin-right:5px;
+}
+.active{
+  background-color: rgb(90,228,228);
+}
+.my-slide-im{
+  height: 300px!important;
+}
+.border,tr{
+  border-radius: 7px!important;
+}
